@@ -19,15 +19,15 @@ This application provides a full-stack solution for managing a list of items. Th
 
 ## Project Structure
 
-item-management/
-├── item-api/ # Back-end code (Express)
-│ ├── server.js # Main server file
-│ ├── db.json # JSON file for data persistence
-│ └── .env # Environment variables for backend
-├── item-client/ # Front-end code (Next.js)
-│ ├── src/pages.tsx # Main Next.js pages
-│ └── .env.local # Environment variables for frontend
-├── README.md # Project documentation
+- item-management/ <br>
+    - item-api/ # Back-end code (Express)<br>
+       - server.js # Main server file<br>
+       - db.json # JSON file for data persistence<br>
+       - .env # Environment variables for backend<br>
+    - item-client/ # Front-end code (Next.js)<br>
+       - src/pages.tsx # Main Next.js pages<br>
+       - .env.local # Environment variables for frontend<br>
+- README.md # Project documentation<br>
 
 ## Requirements
 
