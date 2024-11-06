@@ -42,7 +42,7 @@ item-management/
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/item-management.git
+git clone hhttps://github.com/SaiKiranCVN/Assignment.git
 cd item-management
 ```
 
